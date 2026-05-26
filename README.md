@@ -62,3 +62,4 @@ Generating PR title and description...
 ## How it works
 
 The tool uses the [`claude-agent-sdk`](https://pypi.org/project/claude-agent-sdk/) to send your diff to Claude (`claude-sonnet-4-6`) with a system prompt instructing it to act as a senior software engineer writing PR documentation.
+"# test" 
